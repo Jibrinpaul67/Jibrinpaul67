@@ -71,19 +71,19 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
   
   <!-- Tools & Platforms -->
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Hadoop.svg" />
+  <img width="45" src="https://skillicons.dev/icons?i=tableau&theme=light" />
+  <img width="45" src="https://skillicons.dev/icons?i=hadoop&theme=light" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Trello.svg" />
+ <img width="45" src="https://skillicons.dev/icons?i=jira&theme=light" /
+ <img width="45" src="https://skillicons.dev/icons?i=trello&theme=light" />
   
   <!-- UI/UX & Design -->
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AdobeXD.svg" />
+  <img width="45" src="https://skillicons.dev/icons?i=xd&theme=light" />
 
 </div>
 
