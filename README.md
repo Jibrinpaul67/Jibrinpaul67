@@ -72,8 +72,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/2348103380883)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
   <!-- [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)] -->
-  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTok&logoColor=fff)]
-  (https://www.tiktok.com/@taweni.bri.n)
+  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTok&logoColor=fff)(https://www.tiktok.com/@taweni.bri.n)
   
   
 </div>
