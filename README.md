@@ -59,7 +59,6 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactNative-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
@@ -71,13 +70,13 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
   
   <!-- Tools & Platforms -->
-  <img width="45" src="https://skillicons.dev/icons?i=tableau&theme=light" />
-  <img width="45" src="https://skillicons.dev/icons?i=hadoop&theme=light" />
+  <img width="45" src="https://cdn.simpleicons.org/tableau/eb7a20" alt="Tableau" />
+ <img width="45" src="https://cdn.simpleicons.org/apachehadoop/66ccff" alt="Hadoop" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" />
- <img width="45" src="https://skillicons.dev/icons?i=jira&theme=light" /
+ <img width="45" src="https://skillicons.dev/icons?i=jira&theme=light" />
  <img width="45" src="https://skillicons.dev/icons?i=trello&theme=light" />
   
   <!-- UI/UX & Design -->
