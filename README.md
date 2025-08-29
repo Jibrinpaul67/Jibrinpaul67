@@ -46,7 +46,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <!-- Core Languages -->
-  ![Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs&theme=light)
+  <img width="45" src="https://skillicons.dev/icons?i=java&theme=light" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
