@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Ingénieur fullstack
+      Ingénieur Fullstack
       <br>
       Hi! My name is Esther
       <br>
@@ -16,7 +16,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200" height="500">
  
 </div>
 <div align="center">
