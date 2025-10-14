@@ -3,9 +3,9 @@
 <div align="center">
   <samp>
     <b>
-      Ingénieur Fullstack
+      Ingénieur 
       <br>
-      Hi! My name is Esther
+      Hi! My name is Jibrin
       <br>
 </div>
 <div align="center">
