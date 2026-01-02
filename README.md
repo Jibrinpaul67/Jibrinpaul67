@@ -94,7 +94,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jibrinpaul56@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/navigate_ps)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/2348103380883)
-  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTok&logoColor=fff)](https://www.tiktok.com/@taweni.bri.n)
+  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTok&logoColor=fff)](https://www.tiktok.com/@9lanet.kai)
 
   </div>
 
