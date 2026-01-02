@@ -18,9 +18,9 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="400" height="500">
-</div>
+</div> -->
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Software+Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG"/>
