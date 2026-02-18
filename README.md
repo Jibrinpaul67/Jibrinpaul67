@@ -21,18 +21,16 @@
 <!-- <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="400" height="500">
 </div> -->
-
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Backend-Focused+Full-Stack Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I%27m+a+Backend-Focused+Full-Stack+Engineer;I%27m+also+an+AI+Advocate;Welcome!" alt="Typing SVG" />
 </div>
-
 <br>
 
 ### VulVas 
 Protect your devices from cyber threats with Vulvas driven endpoint security
 
 **Tech Stack:**  
-Nestjs • Nexjs • MySQL • REST API • QR Payment Integration  
+NestJS • Next.js • MySQL • JWT Authentication • REST API • Role-Based Access Control
 
 🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
 <br>
@@ -44,10 +42,14 @@ Nestjs • Nexjs • MySQL • REST API • QR Payment Integration
 A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services, and scalable database management.
 
 **Tech Stack:**  
-Springboot • PostgreSQL • TypeORM • Jest • Java • RBAS • Paystack Payment gateway integration
+Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Authentication • Payment Gateway Integration
 
 📂 Repository: https://github.com/Jibrinpaul67/Spaece-
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="100%" /> 
+<br>
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="50%" /> 
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="50%" />
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="50%" />
+
 
 ---
 
@@ -55,7 +57,7 @@ Springboot • PostgreSQL • TypeORM • Jest • Java • RBAS • Paystack Pa
 A secure financial management platform designed to streamline digital payments, user transactions and account management through a scalable backend architecture. 
 
 **Tech Stack:**  
-React Native • REST API • PostgreSQL • Firebase • Stripe Payment gateway integration
+React Native • Node.js • PostgreSQL • Firebase Cloud Messaging • Stripe Payment Integration • REST API
 
  🔗 Live Demo: https://cash-pilot-new.vercel.app/
 
