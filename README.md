@@ -29,35 +29,35 @@
 <br>
 Featured Projects
 
-### 🏦 Pre-Deposit Payment Platform
-Production-ready backend system for secure property pre-deposits with payment integration and role-based access control.
+### VulVas 
+Protect your devices from cyber threats with Vulvas driven endpoint security
 
 **Tech Stack:**  
-Java • Spring Boot • PostgreSQL • REST API • QR Payment Integration  
+Nestjs • Nexjs • MySQL • REST API • QR Payment Integration  
 
-🔗 Live Demo: https://your-live-link.com  
-📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
+📂 Repository: https://github.com/Jibrinpaul67/VULVAS-SIGMA-PRO
 
 ---
 
-### 🔐 Multi-Role Management System (RBAC)
-Secure backend architecture implementing JWT authentication and role-based access control for multi-department operations.
+### LandLordy
+A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services, and scalable database management.
 
 **Tech Stack:**  
-Node.js (NestJS) • PostgreSQL • TypeORM • Jest  
+Springboot • PostgreSQL • TypeORM • Jest • Java • RBAS • Paystack Payment gateway integration
 
-📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+📂 Repository: https://github.com/Jibrinpaul67/Spaece-
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/blob/main/landlordy.spa.png" width="100%" /> 
 
 ---
 
-### 📱 React Native Farm Management App
-Mobile application integrated with backend APIs for real-time data management.
+### Cash pilot
+A secure financial management platform designed to streamline digital payments, user transactions and account management through a scalable backend architecture. 
 
 **Tech Stack:**  
-React Native • REST API • PostgreSQL  
+React Native • REST API • PostgreSQL • Firebase • Stripe Payment gateway integration
 
-📂 Repository: https://github.com/Jibrinpaul67/project-repo  
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/project-repo/main/preview.png" width="100%" />
+ 🔗 Live Demo: https://cash-pilot-new.vercel.app/
 
 
 
