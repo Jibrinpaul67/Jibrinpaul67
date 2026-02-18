@@ -23,10 +23,43 @@
 </div> -->
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Software+Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Backend-Focused+Full-Stack Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
+## 🚀 Featured Projects
+
+---
+
+### 🏦 Pre-Deposit Payment Platform
+Production-ready backend system for secure property pre-deposits with payment integration and role-based access control.
+
+**Tech Stack:**  
+Java • Spring Boot • PostgreSQL • REST API • QR Payment Integration  
+
+🔗 Live Demo: https://your-live-link.com  
+📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+
+---
+
+### 🔐 Multi-Role Management System (RBAC)
+Secure backend architecture implementing JWT authentication and role-based access control for multi-department operations.
+
+**Tech Stack:**  
+Node.js (NestJS) • PostgreSQL • TypeORM • Jest  
+
+📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+
+---
+
+### 📱 React Native Farm Management App
+Mobile application integrated with backend APIs for real-time data management.
+
+**Tech Stack:**  
+React Native • REST API • PostgreSQL  
+
+📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+
 
 <details align="center">
   <summary>
@@ -92,9 +125,7 @@
   <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jibrinpaul56@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/navigate_ps)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/2348103380883)
-  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTok&logoColor=fff)](https://www.tiktok.com/@9lanet.kai)
 
   </div>
 
