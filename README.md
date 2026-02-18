@@ -27,7 +27,6 @@
 </div>
 
 <br>
-Featured Projects
 
 ### VulVas 
 Protect your devices from cyber threats with Vulvas driven endpoint security
@@ -36,6 +35,7 @@ Protect your devices from cyber threats with Vulvas driven endpoint security
 Nestjs • Nexjs • MySQL • REST API • QR Payment Integration  
 
 🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
+<br>
 📂 Repository: https://github.com/Jibrinpaul67/VULVAS-SIGMA-PRO
 
 ---
@@ -47,7 +47,7 @@ A full-stack property management SaaS platform designed to streamline property d
 Springboot • PostgreSQL • TypeORM • Jest • Java • RBAS • Paystack Payment gateway integration
 
 📂 Repository: https://github.com/Jibrinpaul67/Spaece-
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/blob/main/landlordy.spa.png" width="100%" /> 
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="100%" /> 
 
 ---
 
