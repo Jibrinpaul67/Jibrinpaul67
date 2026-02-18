@@ -23,13 +23,11 @@
 </div> -->
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Backend-Focused+Full-Stack Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+a+Backend-Focused+Full-Stack Engineer+;I'm+also+an+AI+Advocate;Welcome!" alt="Typing SVG" />
 </div>
 
 <br>
-## 🚀 Featured Projects
-
----
+Featured Projects
 
 ### 🏦 Pre-Deposit Payment Platform
 Production-ready backend system for secure property pre-deposits with payment integration and role-based access control.
@@ -59,6 +57,8 @@ Mobile application integrated with backend APIs for real-time data management.
 React Native • REST API • PostgreSQL  
 
 📂 Repository: https://github.com/Jibrinpaul67/project-repo  
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/project-repo/main/preview.png" width="100%" />
+
 
 
 <details align="center">
