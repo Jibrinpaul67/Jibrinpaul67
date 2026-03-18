@@ -32,9 +32,17 @@ Protect your devices from cyber threats with Vulvas driven endpoint security
 **Tech Stack:**  
 NestJS • Next.js • MySQL • JWT Authentication • REST API • Role-Based Access Control
 
-🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
-<br>
-📂 Repository: https://github.com/Jibrinpaul67/VULVAS-SIGMA-PRO
+ 🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
+ 
+---
+
+### FarmAssist
+Farming Ai Specialist for small scale farmers
+
+**Tech Stack:**  
+Typescript • Amazon • NovaAI • Nextjs • Tailwind 
+
+🔗 Live Demo: https://farm-assist-ecru.vercel.app/
 
 ---
 
@@ -46,9 +54,9 @@ Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Aut
 
 📂 Repository: https://github.com/Jibrinpaul67/Spaece-
 <br>
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="50%" /> 
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="50%" />
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="50%" />
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
 
 
 ---
