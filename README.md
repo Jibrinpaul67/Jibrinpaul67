@@ -3,14 +3,12 @@
 <div align="center">
   <samp>
     <b>
-      Ingénieur 
-      <br>
-      Hi! My name is Jibrin
+      Hi! You can call me Est
       <br>
     </b>
   </samp>
 </div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jibrinpaul67&label=Profile%20Views&color=5cadc0&style=for-the-badge" />
 </div>
@@ -22,7 +20,7 @@
   <img src="https://imgur.com/zeuHIk9.gif" width="400" height="500">
 </div> -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I%27m+a+Backend-Focused+Full-Stack+Engineer;I%27m+also+an+AI+Advocate;Welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I%27m+a+Backend-Focused+Engineer;Welcome;" alt="Typing SVG" />
 </div>
 <br>
 
@@ -51,24 +49,10 @@ A full-stack property management SaaS platform designed to streamline property d
 
 **Tech Stack:**  
 Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Authentication • Payment Gateway Integration
-
-📂 Repository: https://github.com/Jibrinpaul67/Spaece-
 <br>
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
-
-
----
-
-### Cash pilot
-A secure financial management platform designed to streamline digital payments, user transactions and account management through a scalable backend architecture. 
-
-**Tech Stack:**  
-React Native • Node.js • PostgreSQL • Firebase Cloud Messaging • Stripe Payment Integration • REST API
-
- 🔗 Live Demo: https://cash-pilot-new.vercel.app/
-
 
 
 <details align="center">
@@ -95,38 +79,21 @@ React Native • Node.js • PostgreSQL • Firebase Cloud Messaging • Stripe 
   <!-- Core Languages -->
   <img width="45" src="https://skillicons.dev/icons?i=java&theme=light" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" />
 
   <!-- Frameworks -->
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
 
   <!-- Databases -->
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
-
-  <!-- Tools -->
-  <img width="45" src="https://cdn.simpleicons.org/apachehadoop/66ccff" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" />
-
-  <!-- UI/UX -->
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  <img width="45" src="https://skillicons.dev/icons?i=xd&theme=light" />
 
   </div>
 
