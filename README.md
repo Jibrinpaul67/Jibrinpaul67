@@ -24,6 +24,17 @@
 </div>
 <br>
 
+
+### LandLordy
+A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services and scalable database management.
+
+**Tech Stack:**  
+Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Authentication • Payment Gateway Integration
+<br>
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
+<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
+
 ### VulVas 
 Protect your devices from cyber threats with Vulvas driven endpoint security
 
@@ -38,21 +49,11 @@ NestJS • Next.js • MySQL • JWT Authentication • REST API • Role-Based 
 Farming Ai Specialist for small scale farmers
 
 **Tech Stack:**  
-Typescript • Amazon • NovaAI • Nextjs • Tailwind 
+Typescript • Amazon • Nextjs • Tailwind 
 
 🔗 Live Demo: https://farm-assist-ecru.vercel.app/
 
 ---
-
-### LandLordy
-A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services, and scalable database management.
-
-**Tech Stack:**  
-Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Authentication • Payment Gateway Integration
-<br>
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
-<img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
 
 
 <details align="center">
