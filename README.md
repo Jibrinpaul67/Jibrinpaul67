@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Hi! You can call me Est
+      Hi! I'm Est, A system engineer with an interest in warfare technology.
       <br>
     </b>
   </samp>
