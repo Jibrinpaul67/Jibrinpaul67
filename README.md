@@ -3,8 +3,9 @@
 <div align="center">
   <samp>
     <b>
-      Hi! I'm Est, A system engineer with an interest in warfare technology.
+      Hi! I'm Est! 
       <br>
+      A system engineer with an interest in warfare technology.
     </b>
   </samp>
 </div>
