@@ -25,7 +25,6 @@
 </div> -->
 <br>
 
-
 ### LandLordy
 A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services and scalable database management.
 
@@ -101,7 +100,7 @@ An autonomous reconnaissance system designed to enter high-risk environments bef
   <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jibrinpaul56@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/2348103380883)
+ 
 
   </div>
 
