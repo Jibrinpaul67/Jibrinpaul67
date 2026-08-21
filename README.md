@@ -35,16 +35,6 @@ Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Aut
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
 
-### VulVas 
-Protect your devices from cyber threats with Vulvas driven endpoint security
-
-**Tech Stack:**  
-NestJS • Next.js • MySQL • JWT Authentication • REST API • Role-Based Access Control
-
- 🔗 Live Demo: https://vulvas-sigma-pro-main.vercel.app/
- 
----
-
 ### Caracal Agents 
 An autonomous reconnaissance system designed to enter high-risk environments before humans do.
 
