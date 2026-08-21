@@ -28,8 +28,6 @@
 ### LandLordy
 A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services and scalable database management.
 
-**Tech Stack:**  
-Java • Spring Boot • Spring Security • PostgreSQL • REST API • JWT Authentication • Payment Gateway Integration
 <br>
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
