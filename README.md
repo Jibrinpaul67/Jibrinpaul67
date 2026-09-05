@@ -5,7 +5,10 @@
     <b>
       Hi! I'm Est! 
       <br>
-      A system engineer with an interest in warfare technology. I also write: Slam poetry in relation to feminism and religious trauama
+      A system engineer with an interest in warfare technology. 
+        </b>
+    <br>
+      I also write: Slam poetry in relation to feminism and religious trauama
     </b>
   </samp>
 </div>
