@@ -3,12 +3,14 @@
 <div align="center">
   <samp>
     <b>
-      Hi! I'm Est! 
-      <br>
-      A system engineer with an interest in warfare technology. 
+      Hi! I'm Esther! 
         </b>
     <br>
-      I also write: Slam poetry in relation to feminism and religious trauama
+     My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI, distributed systems, and API-driven applications. I'm particularly interested in the intersection of software engineering, autonomous systems, robotics and security technology.
+<br>
+    <b>
+     Building: Caracal
+        </b>
     </b>
   </samp>
 </div>
