@@ -30,8 +30,15 @@
 </div> -->
 <br>
 
+### Caracal Agents 
+An autonomous reconnaissance system designed to enter high-risk environments before humans do.
+
+🔗 Live Demo: https://caracal-sable.vercel.app/
+
 ### LandLordy
 A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services and scalable database management.
+
+🔗 Spring Boot + PostgreSQL backend implementing RBAC, REST APIs, property/tenant management, payment integration and transactional workflows.
 
 **Preview**
 :
@@ -39,11 +46,6 @@ A full-stack property management SaaS platform designed to streamline property d
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/landlordy.spa.png" width="25%" /> 
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/lldy.jpeg" width="25%" />
 <img src="https://raw.githubusercontent.com/Jibrinpaul67/Spaece-/main/LLdy.png" width="25%" />
-
-### Caracal Agents 
-An autonomous reconnaissance system designed to enter high-risk environments before humans do.
-
-🔗 Live Demo: https://caracal-sable.vercel.app/
 
 ---
 
