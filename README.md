@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Hi! I'm Esther! 
+      Hi! I'm Esther.
         </b>
     <br>
      My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI, distributed systems and API-driven applications. I'm particularly interested in the intersection of software engineering, autonomous systems, robotics and security technology.
