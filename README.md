@@ -62,8 +62,6 @@ A full-stack property management SaaS platform designed to streamline property d
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jibrinpaul67&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jibrinpaul67&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jibrinpaul67&theme=nord_dark&utcOffset=8) |
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jibrinpaul67&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jibrinpaul67&theme=nord)](https://git.io/streak-stats) |
-  | :-: | :-: |
 
   </div>
 
