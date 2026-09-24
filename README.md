@@ -3,13 +3,13 @@
 <div align="center">
   <samp>
     <b>
-      Hi! I'm Esther.
+      𝓗𝓲! 𝓘'𝓶 𝓔𝓼𝓽𝓱𝓮𝓻.
         </b>
     <br>
      My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI, distributed systems and API-driven applications. I'm particularly interested in the intersection of software engineering, autonomous systems, robotics and security technology.
 <br>
     <b>
-     Building: Caracal
+     Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼
         </b>
     </b>
   </samp>
@@ -33,7 +33,7 @@
 ### Caracal Agents 
 An autonomous reconnaissance system designed to enter high-risk environments before humans do.
 
-🔗 Live Demo: https://caracal-sable.vercel.app/
+🔗 Book a Demo: https://caracal-sable.vercel.app/
 
 ### LandLordy
 A full-stack property management SaaS platform designed to streamline property data, tenant and lease workflows, and secure payment handling. The system features authenticated user access levels, robust backend API services and scalable database management.
