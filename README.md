@@ -6,8 +6,15 @@
       𝓗𝓲! 𝓘'𝓶 𝓔𝓼𝓽𝓱𝓮𝓻.
         </b>
     <br>
-     My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI, distributed systems and API-driven applications. I'm particularly interested in the intersection of software engineering, autonomous systems, robotics and security technology.
-<br>
+     My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI and distributed systems. I'm particularly interested in autonomous systems, robotics and security technology.
+ 
+<div align="center">
+  <p>
+    <a href="https://jibrin.pages.dev/">
+      <b> Check out my works↗</b>
+    </a>
+  </p>
+</div>
     <b>
      Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼
         </b>
