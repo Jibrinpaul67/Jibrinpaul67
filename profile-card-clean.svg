@@ -1,35 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" role="img" aria-labelledby="title desc">
-  <title id="title">Jibrin-Paul Esther— profile</title>
-  <desc id="desc">Terminal profile card</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b2028"/><stop offset="1" stop-color="#15181D"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56c8f5"/><stop offset="1" stop-color="#a6e3a1"/></linearGradient>
-  </defs>
-  <rect x="1" y="1" width="838" height="878" rx="24" fill="url(#bg)" stroke="#343b46" stroke-width="2"/>
-  <path d="M1 70h838" stroke="#343b46"/>
-  <circle cx="32" cy="35" r="8" fill="#f38ba8"/><circle cx="60" cy="35" r="8" fill="#f9e2af"/><circle cx="88" cy="35" r="8" fill="#a6e3a1"/>
-  <text x="420" y="41" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19">jibrin@workspace:~$ cat README.md</text>
 
-  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
-    <text x="54" y="122" fill="#a6e3a1" font-size="20">$ whoami</text>
-    <text x="54" y="174" fill="#f2f4f8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700">Jibrin-Paul Esther</text>
-    <text x="56" y="211" fill="#8bd5ca" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Software Engineer <tspan fill="#657080">/</tspan> AI/ML <tspan fill="#657080">/</tspan>Robotics Enthusiast</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="820" viewBox="0 0 840 820" role="img" aria-labelledby="title desc">
+  <title id="title">Jibrin-Paul Esther — Profile</title>
+  <desc id="desc">Terminal profile card</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1b2028"/>
+      <stop offset="1" stop-color="#15181D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#56c8f5"/>
+      <stop offset="1" stop-color="#a6e3a1"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="818" rx="24" fill="url(#bg)" stroke="#343b46" stroke-width="2"/>
+
+  <!-- Terminal header -->
+  <path d="M1 70h838" stroke="#343b46"/>
+  <circle cx="32" cy="35" r="8" fill="#f38ba8"/>
+  <circle cx="60" cy="35" r="8" fill="#f9e2af"/>
+  <circle cx="88" cy="35" r="8" fill="#a6e3a1"/>
+
+  <text x="420" y="41" text-anchor="middle" fill="#8b949e"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19">
+    jibrin@workspace:~$ cat README.md
+  </text>
+
+  <!-- Identity -->
+  <text x="54" y="122" fill="#a6e3a1"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">
+    $ whoami
+  </text>
+
+  <text x="54" y="174" fill="#f2f4f8"
+        font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700">
+    Jibrin-Paul Esther
+  </text>
+
+  <text x="56" y="211" fill="#8bd5ca"
+        font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">
+    Software Engineer
+    <tspan fill="#657080"> / </tspan>
+    AI/ML
+    <tspan fill="#657080"> / </tspan>
+    Robotics Enthusiast
+  </text>
+
+  <!-- Decorative mark -->
   <g opacity=".15" transform="translate(660 110)">
     <path d="M0 70 45 -12 90 70H65L45 36 25 70Z" fill="#56c8f5"/>
     <path d="M45 58 36 70h18Z" fill="#15181D"/>
   </g>
 
-  <path d="M54 247h732" stroke="#343b46"/>
-  <text x="54" y="288" fill="#a6e3a1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">$ cat bio.txt</text>
-  <text x="54" y="328" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">My work spans Java, Python, TypeScript, C/C++,</text>
-  <text x="54" y="359" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">cloud technologies, AI and distributed systems.</text>
-  <text x="54" y="390" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">I'm particularly interested in autonomous systems,</text>
-  <text x="54" y="421" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">robotics and security technology. </text>
-  <text x="54" y="452" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Obsessed with making things I need</text>
-  <path d="M54 488h732" stroke="#343b46"/>
-  <text x="54" y="529" fill="#a6e3a1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">$ uptime</text>
-  <text x="54" y="571" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Learning every day · Building for the real world · Shipping ideas to prod</text>
+  <!-- Status -->
+  <g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="16">
+    <text x="54" y="260" fill="#9fb4c7">{</text>
+    <text x="74" y="291" fill="#7f95a8">
+      "status"  :
+      <tspan fill="#a6e3a1"> "Open for collaborations"</tspan>
+    </text>
+    <text x="54" y="322" fill="#9fb4c7">}</text>
+  </g>
 
-  <rect x="54" y="870" width="732" height="3" rx="1.5" fill="url(#accent)"/>
+  <!-- Bio -->
+  <path d="M54 352h732" stroke="#343b46"/>
+
+  <text x="54" y="393" fill="#a6e3a1"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">
+    $ cat bio.txt
+  </text>
+
+  <g fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">
+    <text x="54" y="433">My work spans Java, Python, TypeScript, C/C++,</text>
+    <text x="54" y="464">cloud technologies, AI and distributed systems.</text>
+    <text x="54" y="495">I'm particularly interested in autonomous systems,</text>
+    <text x="54" y="526">robotics and security technology.</text>
+  </g>
+
+  <!-- Uptime -->
+  <path d="M54 563h732" stroke="#343b46"/>
+
+  <text x="54" y="604" fill="#a6e3a1"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">
+    $ uptime
+  </text>
+
+  <g fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">
+    <text x="54" y="644">Building reliable software, exploring intelligent machines,</text>
+    <text x="54" y="675">and turning ideas into working technology.</text>
+  </g>
+
+  <!-- Footer -->
+  <path d="M54 713h732" stroke="#343b46"/>
+
+  <text x="54" y="754" fill="#8b949e"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">
+   Obsessed with building whatever I need
+  </text>
+
+  <rect x="54" y="790" width="732" height="3" rx="1.5" fill="url(#accent)"/>
 </svg>
