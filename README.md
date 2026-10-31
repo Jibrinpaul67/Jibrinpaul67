@@ -5,9 +5,8 @@
     </b>
   </samp>
 </div>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jibrinpaul67&label=views&color=1b2028&style=flat-square&labelColor=343b46" alt="Profile views"/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Jibrinpaul67&label=views&color=1b2028&style=plastic&labelColor=343b46" alt="Profile views"/>
 </div>
 
 <div align="center">
