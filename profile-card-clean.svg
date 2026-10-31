@@ -22,7 +22,8 @@
 
   <path d="M54 247h732" stroke="#343b46"/>
   <text x="54" y="288" fill="#a6e3a1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">$ cat bio.txt</text>
-  <text x="54" y="328" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">My work spans Java, Python, TypeScript, C/C++, cloud technologies, AI and distributed systems.</text>
+  <text x="54" y="328" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">My work spans Java, Python, TypeScript, C/C++.</text>
+    <text x="54" y="328" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">cloud technologies, AI and distributed systems.</text>
   <text x="54" y="359" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">I'm particularly interested in autonomous systems, robotics and security technology.</text>
   <text x="54" y="452" fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Obsessed with making things I need</text>
 
