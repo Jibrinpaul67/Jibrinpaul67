@@ -5,12 +5,11 @@
     </b>
   </samp>
 </div>
-<div align="center"><b>Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼</b>  
-  <a href="https://jibrin.pages.dev/"> <b> Check out my works</b> </a></div>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jibrinpaul67&label=Profile%20Views&color=5cadc0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jibrinpaul67&label=views&color=1b2028&style=flat-square&labelColor=343b46" alt="Profile views"/>
 </div>
+
 <div align="center">
 <p>  
   <img src="./profile-card-clean.svg" width="400" height="440" alt="Minimal terminal profile card" />
