@@ -15,6 +15,6 @@
         </b>
     <a href="https://jibrin.pages.dev/">
       <b> Check out my works↗</b> </a>
-  <img src="./profile-card-clean.svg?v=1793170013" width="400" height="440" alt="Minimal terminal profile card" />
+  <img src="./profile-card-clean.svg" width="400" height="440" alt="Minimal terminal profile card" />
 </p>
 </div>
