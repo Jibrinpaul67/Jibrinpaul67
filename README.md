@@ -10,18 +10,11 @@
 </div>
 
 <p>
-  <img src="./terminal.svg" width="400" height="440" alt="portfolio" />
-  <img src="./profile-card-clean.svg?v=1793170013" width="400" height="440" alt="Minimal terminal profile card" />
-</p>
-
-</div>
-<div align="center">
-  <p>
-    <a href="https://jibrin.pages.dev/">
-      <b> Check out my works↗</b>
-    </a>
-  </p>
-</div>
- <b>
+   <b>
      Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼
         </b>
+    <a href="https://jibrin.pages.dev/">
+      <b> Check out my works↗</b> </a>
+  <img src="./profile-card-clean.svg?v=1793170013" width="400" height="440" alt="Minimal terminal profile card" />
+</p>
+</div>
