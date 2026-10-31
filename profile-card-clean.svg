@@ -85,11 +85,16 @@
         font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">
     $ uptime
   </text>
-
+  
   <g fill="#cdd6f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">
-    <text x="54" y="644">Building reliable software, exploring intelligent machines,</text>
-    <text x="54" y="675">and turning ideas into working technology.</text>
+    <text x="54" y="644">Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼</text> <text x="54" y="675">
+    Check out my works:
+    <a href="https://jibrin.pages.dev/" target="_blank">
+      <tspan fill="#56c8f5" text-decoration="underline"> jibrin.pages.dev</tspan>
+    </a>
+  </text>
   </g>
+
 
   <!-- Footer -->
   <path d="M54 713h732" stroke="#343b46"/>
