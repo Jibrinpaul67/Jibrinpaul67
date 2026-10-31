@@ -10,7 +10,7 @@
 </div>
 
 <p>
-  <img src="./sanjaya-video-terminal.gif" width="400" height="440" alt="Animated ASCII portrait of Sanjaya Danushka in an Arch Linux terminal" />
+  <img src="./terminal.svg" width="400" height="440" alt="portfolio" />
   <img src="./profile-card-clean.svg?v=1793170013" width="400" height="440" alt="Minimal terminal profile card" />
 </p>
 
@@ -25,4 +25,3 @@
  <b>
      Building: 𝓒𝓪𝓻𝓪𝓬𝓪𝓵 𝓐𝓰𝓮𝓷𝓽𝓼
         </b>
-<img src="./divider.svg" width="100%" />
